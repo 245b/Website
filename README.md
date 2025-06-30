@@ -1,6 +1,6 @@
 # Website
 
-This repository contains a simple blog website with basic styling and optional dark mode.
+This repository contains a simple blog website focused on news and updates from MIT. It includes basic styling and optional dark mode.
 
 ## Running locally
 
